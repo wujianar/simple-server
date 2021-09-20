@@ -21,14 +21,14 @@ http-server_windows.exe
 
 ## 1.2 Linux
 
-控制中运行
+控制台中运行
 ```bash
 ./http-server_linux
 ```
 
 ## 1.3 MacOS
 
-控制中运行
+控制台中运行
 ```bash
 ./http-server_darwin
 ```
